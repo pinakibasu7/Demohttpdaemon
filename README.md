@@ -22,8 +22,8 @@ Our web-server incorporates the following functionalities: -
 
 - Clone the repository and Change the Directory
 ```bash
-    git clone 
-    cd demohttpdaemon
+    git clone https://github.com/pinakibasu7/Demohttpdaemon.git
+    cd Demohttpdaemon
 ```
 - Compile the ```demohttpdaemon.cpp``` file.
 ```bash
